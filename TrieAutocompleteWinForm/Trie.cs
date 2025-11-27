@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 
+//Skibidi
+
 namespace TrieAutocompleteWinForm
 {
     public class TrieNode
